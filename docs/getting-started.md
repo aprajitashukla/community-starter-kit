@@ -34,5 +34,5 @@ firstPRMergeComment: >
 ```
 
 ### Example Messages
-
-CONFIGS PLACEHOLDER
+Heylos people! 
+Hope you are doing well!
