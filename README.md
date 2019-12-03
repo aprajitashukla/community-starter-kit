@@ -1,10 +1,14 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- Here we need to describe some of the stuff we do
+- Also how we do it
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- This is the list of features we want to have in the code
+- fast
+- use less memory
+
 
 ## Getting started
 
@@ -53,3 +57,18 @@ If you need help using this app, we encourage you to:
 ## Project maintainers
 
 This project is maintained by Monalisa Octocat and friends. Use of this project under the [MIT License](LICENSE.md).
+=======
+DESCRIPTION 
+
+- How are you?
+- What do you want to do today?
+FEATURES
+
+- Replace them with some bulleted information that may be helpful to new users.
+
+![issue tab](https://lab.github.com/public/images/issue_tab.png)
+
+I'll meet you over there, can't wait to get started!
+
+
+
